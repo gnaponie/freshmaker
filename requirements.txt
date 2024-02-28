@@ -61,7 +61,7 @@ flask==2.2.5
     #   flask-login
     #   flask-migrate
     #   flask-sqlalchemy
-flask-login==0.6.2
+flask-login==0.6.3
     # via -r requirements.in
 flask-migrate==4.0.5
     # via -r requirements.in
