@@ -73,7 +73,7 @@ frozenlist==1.4.0
     # via
     #   aiohttp
     #   aiosignal
-gql[aiohttp,requests]==3.5.0b8
+gql[aiohttp,requests]==3.5.0
     # via -r requirements.in
 graphql-core==3.3.0a3
     # via gql
