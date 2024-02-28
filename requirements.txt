@@ -27,7 +27,7 @@ backoff==2.2.1
     # via
     #   -r requirements.in
     #   gql
-beautifulsoup4==4.12.2
+beautifulsoup4==4.12.3
     # via python-fedora
 certifi==2023.11.17
     # via requests
