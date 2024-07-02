@@ -105,7 +105,7 @@ kitchen==1.2.6
     #   fedmsg
     #   moksha-common
     #   python-fedora
-kobo==0.35.0
+kobo==0.37.0
     # via -r requirements.in
 koji==1.33.1
     # via -r requirements.in
