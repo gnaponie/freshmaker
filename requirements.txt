@@ -75,7 +75,7 @@ frozenlist==1.4.0
     #   aiosignal
 gql[aiohttp,requests]==3.5.0b8
     # via -r requirements.in
-graphql-core==3.3.0a3
+graphql-core==3.3.0a6
     # via gql
 greenlet==3.0.2
     # via sqlalchemy
